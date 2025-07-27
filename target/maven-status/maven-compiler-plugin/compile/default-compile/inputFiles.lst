@@ -14,6 +14,7 @@ P:\vault\src\main\java\com\storage\drive\storagedrive\services\CredentialService
 P:\vault\src\main\java\com\storage\drive\storagedrive\controller\CredentialController.java
 P:\vault\src\main\java\com\storage\drive\storagedrive\model\Credential.java
 P:\vault\src\main\java\com\storage\drive\storagedrive\repository\CredentialRepository.java
+P:\vault\src\main\java\com\vault\vault\VaultApplication.java
 P:\vault\src\main\java\com\storage\drive\storagedrive\controller\NoteController.java
 P:\vault\src\main\java\com\storage\drive\storagedrive\repository\FileRepository.java
 P:\vault\src\main\java\com\storage\drive\storagedrive\repository\UserRepository.java
