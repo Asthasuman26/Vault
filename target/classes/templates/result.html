@@ -16,7 +16,7 @@
     </div>
     <div th:if="${result == 'success'}">
         <div style="width: 40%; margin: auto">
-            <img th:src="@{/svg/changesMade.svg}" height="300" width="375">
+            
         </div>
     </div>
     <div class="alert alert-danger fill-parent" th:if="${result == 'notSaved'}">
@@ -25,7 +25,7 @@
     </div>
     <div th:if="${result == 'notSaved'}">
         <div style="width: 40%; margin: auto">
-            <img th:src="@{/svg/500.svg}" height="300" width="375">
+           
         </div>
     </div>
     <div class="alert alert-danger fill-parent" th:if="${result == 'error'}">

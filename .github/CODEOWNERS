@@ -1,0 +1,17 @@
+# This is a CODEOWNERS file.
+# Each line is a file pattern followed by one or more owners.
+
+# These owners will be the default owners for everything in the repo.
+* @yourusername
+
+# Order is important; the last matching pattern takes the most precedence.
+
+# Core application code
+/src/main/java/ @yourusername
+
+# Configuration files
+*.xml @yourusername
+*.properties @yourusername
+
+# Documentation
+*.md @yourusername
